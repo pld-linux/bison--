@@ -1,5 +1,5 @@
 Summary:	Generate a parser in C or C++ from BNF notation
-Summary(pl):	Generowanie parserów w C lub C++ z notacji BNF
+Summary(pl.UTF-8):   Generowanie parserÃ³w w C lub C++ z notacji BNF
 Name:		bison++
 Version:	1.21.5
 Release:	1
@@ -17,14 +17,14 @@ C/C++ program to parse that grammar. Once you are proficient with
 bison++ you can generate a wide range of language parsers, from those
 used in simple desk calculators to complex programming languages.
 
-%description -l pl
+%description -l pl.UTF-8
 bison++ jest oparty na bisonie w wersji 1.19, kompatybilny z bisonem,
-ale z obs³ug± C++. Bison to generator parserów ogólnego przeznaczenia,
-konwertuj±cy opis gramatyki dla gramatyk bezkontekstowych LALR (w
-stylu BNF) na program C/C++ analizuj±cy tê gramatykê. Po nabraniu
-bieg³o¶ci w obs³udze bisona++ mo¿na generowaæ szeroki zakres parserów
-jêzyków, od tych u¿ywanych w prostych kalkulatorach biurowych, do
-z³o¿onych jêzyków programowania.
+ale z obsÅ‚ugÄ… C++. Bison to generator parserÃ³w ogÃ³lnego przeznaczenia,
+konwertujÄ…cy opis gramatyki dla gramatyk bezkontekstowych LALR (w
+stylu BNF) na program C/C++ analizujÄ…cy tÄ™ gramatykÄ™. Po nabraniu
+biegÅ‚oÅ›ci w obsÅ‚udze bisona++ moÅ¼na generowaÄ‡ szeroki zakres parserÃ³w
+jÄ™zykÃ³w, od tych uÅ¼ywanych w prostych kalkulatorach biurowych, do
+zÅ‚oÅ¼onych jÄ™zykÃ³w programowania.
 
 %prep
 %setup -q -c
