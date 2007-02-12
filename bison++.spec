@@ -1,5 +1,5 @@
 Summary:	Generate a parser in C or C++ from BNF notation
-Summary(pl.UTF-8):   Generowanie parserów w C lub C++ z notacji BNF
+Summary(pl.UTF-8):	Generowanie parserów w C lub C++ z notacji BNF
 Name:		bison++
 Version:	1.21.5
 Release:	1
